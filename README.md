@@ -1,2 +1,3 @@
 # read-word
-white notes
+
+用来保存一些总结。(～￣▽￣)～
